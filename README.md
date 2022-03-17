@@ -7,7 +7,7 @@
 No intuito de desenvolver minhas habilidades no React Native, desenvolvi um clone do feed de postagens do instagram. Utilizamos a ajuda de outros posts sobre o tema na internet.
 
 <center>
-	<img src=".assetsForGit/previewApp.gif" alt="Preview App" width="250px"/>
+	<img src=".assetsForGit/previewApp.gif" alt="Preview App" width="200px"/>
 </center>
 
 
