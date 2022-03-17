@@ -15,7 +15,7 @@ No intuito de desenvolver minhas habilidades no React Native, criamos um clone d
 ## Tecnologias utilizadas
 
 - React Native
-- styled-components
+- Styled Components
 - Expo
 - Typescript
 
