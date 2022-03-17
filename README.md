@@ -45,10 +45,11 @@ yarn start
 O script api e start foram definidos no package.json
 
 ```json
-"scripts":{
-...,
-	start: ./src/ip.sh
-	api:" yarn json-server server.json -H 0.0.0.0 -d 1000 -w"
+{
+  "scripts": {
+    "start": "./src/ip.sh",
+    "api": "yarn json-server server.json -H 0.0.0.0 -d 1000 -w"
+  }
 }
 ```
 
