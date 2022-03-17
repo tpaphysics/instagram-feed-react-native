@@ -4,7 +4,7 @@
 
 ## Introdução
 
-No intuito de desenvolver minhas habilidades no React Native, desenvolvi um clone do feed de postagens do instagram. Utilizamos a ajuda de outros posts sobre o tema na internet.
+No intuito de desenvolver minhas habilidades no React Native, criamos um clone do feed de postagens do instagram com a ajuda de outros posts sobre o tema.
 
 <center>
 	<img src=".assetsForGit/previewApp.gif" alt="Preview App" width="200px"/>
